@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+}
+.footer{
+  
+   background-color: rgb(171, 215, 242);
+}
+.footer div,.footer p{
+  line-height: 30px;
+  text-align: center;
+  text-align: center;
+  font-size: 12px;
+ 
+}
